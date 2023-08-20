@@ -1,0 +1,2 @@
+A simple authentication app by MERN.Login and signup functionalities by Google and regular email and password. I used firebase google authentication to sign in and sign up
+ and Firebase storage to store the image. Redux toolkit as a state management tool and redux persist to persist the state of the user information. The user can update his profile. Tech stacks:React js, Tailwind CSS, Express js, Mongo DB.
